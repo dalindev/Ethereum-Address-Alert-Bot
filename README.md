@@ -2,7 +2,7 @@
 simple tool to watching an ether address if any ETH transactions coming in...
 
 
-Why this is useful? there are many Ether address are public for testnet, but people make mistack and sending ETH to those addresses at mainnet.
+Why this is useful? there are many Ether address are public for testnet, but people make mistake and sending ETH to those addresses at mainnet.
 Then you might want to watching out those public known wallet, if any transactions comes in it is Free ETH for you LOL.
 
 ```
